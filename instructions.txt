@@ -1,0 +1,2 @@
+1. The excel file "spam_or_not_spam.csv" needs to be in the same directory as the program.
+2. The necessary libraries indicated at the beginning of the code should be installed prior to running the program.
